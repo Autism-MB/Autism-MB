@@ -26,5 +26,6 @@
 - [从零开始阐述IOC，AOP，Bean的生命周期等Spring框架核心技术](https://github.com/Autism-sow/samll-spring/tree/master)
 - [安卓组件的demo,开箱即用](https://github.com/Autism-sow/Android-demo)
 - [用Java实现ChapGpt AI 问答助手](https://github.com/Autism-sow/chatgpt-api)
+- [基于SSM的自动办公系统](https://github.com/Autism-sow/autism-oa-parent)
 <!-- BLOG-POST-LIST:END -->
 
