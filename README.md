@@ -27,5 +27,6 @@
 - [安卓组件的demo,开箱即用](https://github.com/Autism-sow/Android-demo)
 - [用Java实现ChapGpt AI 问答助手](https://github.com/Autism-sow/chatgpt-api)
 - [基于SSM的自动办公系统](https://github.com/Autism-sow/autism-oa-parent)
+- [从0到1详解JVM虚拟机](https://github.com/Autism-sow/JvmDemo/tree/master)
 <!-- BLOG-POST-LIST:END -->
 
