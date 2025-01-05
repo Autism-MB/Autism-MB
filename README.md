@@ -1,4 +1,4 @@
-### Hi I`m Autism-sow 👋
+### Hi I`m Autism-MB 👋
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Autism-MB&&show_icons=true&theme=default" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
