@@ -1,6 +1,6 @@
 ### Hi I`m Autism-sow 👋
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Autism-sow&&show_icons=true&theme=default" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Autism-MB&&show_icons=true&theme=default" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 一位Java/Net开发的编程爱好者，略懂略懂 *Amateur programming enthusiast*
 
