@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Autism-sow&&show_icons=true&theme=default" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-一位Java开发的编程爱好者，略懂略懂 *Amateur programming enthusiast*
+一位Java/Net开发的编程爱好者，略懂略懂 *Amateur programming enthusiast*
 
 - 想要了解更多，请关注我的博客[小肖coding](http://autism1225.top/)
 - Read more about my Blog [Blog](http://autism1225.top/)
